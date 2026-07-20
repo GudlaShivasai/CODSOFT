@@ -2,6 +2,8 @@
 
 This repository contains my solutions for the **CODSOFT Machine Learning Internship**.
 
+---
+
 ## Completed Tasks
 
 ### Task 1: Movie Genre Classification
@@ -13,6 +15,8 @@ Predicts movie genres from movie plot summaries.
 - Naive Bayes
 - Support Vector Machine (SVM)
 
+---
+
 ### Task 2: Credit Card Fraud Detection
 Detects fraudulent credit card transactions using machine learning.
 
@@ -23,6 +27,8 @@ Detects fraudulent credit card transactions using machine learning.
 
 > **Note:** The `creditcard.csv` dataset is not included because it exceeds GitHub's file size limit. A download link is provided inside the `data` folder.
 
+---
+
 ### Task 4: SMS Spam Detection
 Classifies SMS messages as Spam or Ham.
 
@@ -30,6 +36,8 @@ Classifies SMS messages as Spam or Ham.
 - TF-IDF Vectorization
 - Naive Bayes
 - Logistic Regression
+
+---
 
 ## Technologies Used
 
@@ -39,6 +47,8 @@ Classifies SMS messages as Spam or Ham.
 - Scikit-learn
 - Matplotlib
 - Joblib
+
+---
 
 ## Repository Structure
 
@@ -50,6 +60,8 @@ CODSOFT/
 │── .gitignore
 │── README.md
 ```
+
+---
 
 ## Author
 
