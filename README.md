@@ -5,21 +5,33 @@ This repository contains my solutions for the CODSOFT Machine Learning Internshi
 ## Completed Tasks
 
 ### Task 1: Movie Genre Classification
-- Predicts movie genres from plot summaries.
-- Techniques: TF-IDF, Logistic Regression, Naive Bayes, SVM.
-- Folder: Task1_MovieGenreClassification
+- Predicts movie genres from movie plot summaries.
+- Techniques Used:
+  - TF-IDF Vectorization
+  - Logistic Regression
+  - Naive Bayes
+  - Support Vector Machine (SVM)
 
 ### Task 2: Credit Card Fraud Detection
-- Detects fraudulent credit card transactions.
-- Algorithms: Logistic Regression, Random Forest, Decision Tree.
-- Folder: Task2_CreditCardFraudDetection
+- Detects fraudulent credit card transactions using machine learning.
+- Techniques Used:
+  - Logistic Regression
+  - Decision Tree
+  - Random Forest
+
+> **Note:** The `creditcard.csv` dataset is not included because it exceeds GitHub's file size limit. A download link is provided inside the `data` folder.
 
 ### Task 4: SMS Spam Detection
 - Classifies SMS messages as Spam or Ham.
-- Techniques: TF-IDF, Naive Bayes, Logistic Regression.
-- Folder: Task4_SMS_SpamDetection
+- Techniques Used:
+  - TF-IDF Vectorization
+  - Naive Bayes
+  - Logistic Regression
+
+---
 
 ## Technologies Used
+
 - Python
 - Pandas
 - NumPy
@@ -27,17 +39,33 @@ This repository contains my solutions for the CODSOFT Machine Learning Internshi
 - Matplotlib
 - Joblib
 
+---
+
 ## Repository Structure
 
-```
+```text
 CODSOFT/
 │── Task1_MovieGenreClassification/
-│── Task2_CreditCardFraudDetection/
-│── Task4_SMS_SpamDetection/
-│── datasets/
-│── images/
+│── Task2_CreditCardFraud/
+│── Task4_SMS_Spam/
+│── .gitignore
 │── README.md
 ```
 
+---
+
+## Model Performance
+
+| Task | Best Model | Accuracy |
+|------|------------|----------|
+| Movie Genre Classification | Logistic Regression | **Replace with your accuracy** |
+| Credit Card Fraud Detection | Random Forest | **Replace with your accuracy** |
+| SMS Spam Detection | Naive Bayes | **Replace with your accuracy** |
+
+---
+
 ## Author
-Gudla shivasai
+
+**Gudla Shiva Sai**
+
+Machine Learning Intern – CODSOFT
