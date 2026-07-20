@@ -1,0 +1,10 @@
+.venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Too large for GitHub (download from Kaggle — see Task 2 notebook)
+Task2_CreditCardFraud/data/creditcard.csv
+
+# NLTK cache
+nltk_data/
